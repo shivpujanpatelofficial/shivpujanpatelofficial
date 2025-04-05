@@ -12,7 +12,7 @@
 - 📱 Love working with Android background services: **SMS, Contacts, GPS, WhatsApp sync**
 - 💡 Exploring: **Blockchain, SaaS Products, Real-time APIs**
 - 💬 Ask me about: `Java`, `PHP`, `Kotlin`, `Node.js`, `MySQL`, `Laravel`
-- 📫 Reach me: **shivpujan.dev@gmail.com**
+- 📫 Reach me: **shivpujanpatel991@gmail.com**
 
 ---
 
@@ -32,9 +32,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivpujanpatel&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivpujanpatelofficial&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivpujanpatel&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivpujanpatelofficial&layout=compact&theme=radical" />
 </p>
 
 ---
